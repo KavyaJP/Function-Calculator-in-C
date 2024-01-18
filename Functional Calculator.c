@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <math.h>
+
 #define pi_d 180
+
 int basicmaths();
 int trigonometric();
 int logln();
@@ -11,6 +13,7 @@ int expo();
 int fact();
 int sumupton();
 int unitconversion();
+
 int main()
 {
     int fun, again;
